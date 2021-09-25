@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sagar adhikari 
 - 👀 I’m very much interested in Machine Learning and Deep learning , I try to learn as much as possible in my spare time.
-- 🌱 I’m currently doing Bachelor's Degree in Computer Science. 
-
-- 💞️ 
+- 🌱 I’m currently doing Bachelor's Degree in Computer Science.
+- 💞️  I am available for any collabs related to data science fields.
 - 📫 
 
 <!---
